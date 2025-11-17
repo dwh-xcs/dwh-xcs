@@ -43,19 +43,11 @@
 
 ## 📈 / My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwh-xcs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+  ![dwh-xcs's Stats](https://github-readme-stats.vercel.app/api?username=dwh-xcs&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwh-xcs&layout=compact&theme=buefy" alt="Linguagens Mais Usadas" />
-</p>
+![dwh-xcs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwh-xcs&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwh-xcs&theme=dark" alt="Sequência de Contribuições" />
-</p>
 
 ---
 
-> 💬 “Dados são o novo petróleo — mas engenharia é a refinaria.”  
 > — David Costa
